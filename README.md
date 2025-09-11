@@ -26,6 +26,7 @@
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fiber](https://img.shields.io/badge/fiber-242526?logo=Go&logoColor=white&style=for-the-badge)
+?[Gorm](https://img.shields.io/badge/Go-GORM-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
