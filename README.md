@@ -1,6 +1,6 @@
 # Hi, I'm Korapat Seedamart
 
-### _FullStack Developer_
+### _Full Stack Developer_
 
 ## Tech Stack
 
